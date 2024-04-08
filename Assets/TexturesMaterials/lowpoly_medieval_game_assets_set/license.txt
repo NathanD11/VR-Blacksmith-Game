@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Medieval Game Assets Set
+* source:	https://sketchfab.com/3d-models/lowpoly-medieval-game-assets-set-b6de2aa3b6c1490692f8fccfefcb25f7
+* author:	3Dimentional (https://sketchfab.com/insectscorch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Medieval Game Assets Set" (https://sketchfab.com/3d-models/lowpoly-medieval-game-assets-set-b6de2aa3b6c1490692f8fccfefcb25f7) by 3Dimentional (https://sketchfab.com/insectscorch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
